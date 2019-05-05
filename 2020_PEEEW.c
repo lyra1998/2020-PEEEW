@@ -16,6 +16,7 @@ int main(){
     return 0;
 }
 
+void Unit01();
 /*
  Unit 01
  
@@ -113,11 +114,114 @@ int main(){
  
  */
 
+void unit02();
 /*
  Unit02
  
-1.
+ 1.Peer
+ gaze at
+ stare at
+ glare at
+ contemporary
  
+ 2.Issue
+ tissue
+ 
+ 3.Claim
+ proclaim
+ disclaim
+ acclaim
+ lay claim to
+ allege
+ contend
+ assert
+ 
+ 4.Patent
+ intellectual property
+ 
+ 5.Court
+ courteous
+ 
+ 6.Line
+ hardline
+ underline
+ decline
+ online
+ offline
+ coastline
+ deadline
+ incline
+ baseline
+ airline
+ outline
+ lineage
+ pipeline
+ guideline
+ in line with
+ series
+ row
+ boundary
+ bound
+ route
+ succession
+ procession
+ 
+ 7.Value
+ overvalue
+ devalued
+ worth
+ significance
+ 
+ 8.View
+ interview
+ viewer
+ review
+ reviewer
+ worldview
+ in view of
+ in view
+ on view
+ take sth. in view = take sth. into
+ account
+ perpective
+ 
+ 9.Individual
+ individually
+ collective
+ 
+ 10.economic
+ uneconomic
+ economics
+ economically
+ socioeconomic
+ fiscal cliff
+ IMF
+ financial
+ fiscal
+ monetary
+ 
+ 11.Create
+ creature
+ creative
+ recreate
+ creativity
+ creation
+ creationism
+ creationist
+ procreation
+ 
+ 12.Legal
+ illegal
+ lawful
+ legitimate
+ official
+ 
+ 13.Consider
+ consideration
+ reconsider
+ considerable
+ considering
+ consider ..as
  
  */
 
