@@ -225,3 +225,100 @@ void unit02();
  
  */
 
+void Unit03();
+/*
+ Unit03
+ 
+ 1.Subject
+ subjective
+ be subject to
+ 
+ 2.Lead
+ leadership
+ mislead
+ leader
+ plead
+ side with
+ plead for
+ leading
+ lead someone on
+ lead up to
+ take the lead
+ 
+ 3.Intend
+ intend to do/ intend doing sth
+ 
+ 4.Sector
+ 
+ 5.Account
+ accountant
+ account for
+ take into account
+ leave sth. out of account
+ on account of
+ description
+ explaination
+ 
+ 6.consumer
+ consumption
+ consuming
+ consumerism
+ client
+ 
+ 7.Environment
+ environmental
+ environmentally
+ environmentalist
+ surroundings
+ atmosphere
+ situation
+ 
+ 8.Essay
+ article
+ 
+ 9.Matter
+ as a matter of fact
+ substance
+ stuff
+ material
+ 
+ 10.Fund
+ fundamental--fundamentally
+ nonfundamentalist
+ underfund
+ 
+ 11.Hold
+ household
+ holder
+ withhold
+ shareholder--shareholding
+ stockholder
+ stakeholder
+ hold back
+ hold on
+ hold out
+ hold up
+ cling
+ withstand
+ seize
+ 
+ 12.Function
+ functional
+ work
+ employ
+ 
+ 13.Evidence
+ evident
+ proof
+ confirmation
+ 
+ 14.Practice
+ in practice
+ perform
+ 
+ 15.Note
+ denote
+ noteworthy
+ take/make notes
+ 
+ */
