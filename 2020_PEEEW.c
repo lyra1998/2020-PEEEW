@@ -322,3 +322,143 @@ void Unit03();
  take/make notes
  
  */
+
+void Unit04();
+/*
+ Unit04
+ 
+ 1.Degree
+ agreement
+ Greek
+ 
+ 2.Concern
+ concerned--unconcerned
+ concern oneself with
+ as/so far as ... be cncerned
+ 
+ 3.Allow
+ shallow
+ allow for
+ 
+ 4.Product
+ production
+ productive--productivity
+ invention
+ 
+ 5.Level
+ low-level
+ level off
+ on the level
+ do one's level best
+ 
+ 6.Effort
+ effortless
+ 
+ 7.Infer
+ inferiority
+ inferior
+ inference
+ deduce
+ conclude
+ 
+ 8.Professional
+ professionalize--professionalization
+ professionalism
+ 
+ 9.Provide
+ provided
+ provider
+ provision
+ supply
+ offer
+ 
+ 10.Challenge
+ unchallenged
+
+ */
+
+void Unit05();
+/*
+ Unit05
+ 
+ 1.Deal
+ ideal
+ dealing
+ dealership
+ deal with
+ a great deal of
+ contract
+ 
+ 2.Structure
+ restructuring
+ structural
+ infrastructure
+ 
+ 3.Define
+ 
+ 4.Content
+ contention
+ discontent
+ self-contented
+ 
+ 5.Immigrant
+ immigration
+ emigrate
+ 
+ 6.Comprehension
+ comprehensive
+ beyond one's comprehension
+ 
+ 7.Potential
+ possible
+ probable
+ 
+ 8.Mass
+ massive
+ massacre
+ biomass
+ rally
+
+ 9.Compare
+ comparable
+ comparison
+ coparatively
+ compare with
+ compare to
+ contrast
+ 
+ 10.Feature
+ 
+ 11.Involve
+ involvement
+ revolve
+ evolve
+ invaild
+ engage
+ occupy
+ 
+ 12.Segment
+ section
+ fraction
+ 
+ 13.Access
+ accessible
+ access road
+ 
+ 14.Cover
+ coverage
+ recovery
+ discover
+ cloak
+ 
+ 15.Reveal
+ uncover
+ unveil
+ display
+ disclose
+ 
+ 16.Analisis
+ anatomy
+ prode
+ 
+ */
