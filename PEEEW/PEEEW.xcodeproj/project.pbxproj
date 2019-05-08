@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		57A14890228113D900A81B29 /* Part3.c in Sources */ = {isa = PBXBuildFile; fileRef = 57A1488F228113D900A81B29 /* Part3.c */; };
 		57A14892228125BF00A81B29 /* Part4.c in Sources */ = {isa = PBXBuildFile; fileRef = 57A14891228125BF00A81B29 /* Part4.c */; };
+		57A1489B228276C800A81B29 /* Part5.c in Sources */ = {isa = PBXBuildFile; fileRef = 57A1489A228276C800A81B29 /* Part5.c */; };
+		57A1489D22829A4800A81B29 /* Part6.c in Sources */ = {isa = PBXBuildFile; fileRef = 57A1489C22829A4800A81B29 /* Part6.c */; };
 		57D5065822802DB1000CA97C /* Part1.c in Sources */ = {isa = PBXBuildFile; fileRef = 57D5065722802DB1000CA97C /* Part1.c */; };
 		57D5065A22802E16000CA97C /* Part2.c in Sources */ = {isa = PBXBuildFile; fileRef = 57D5065922802E16000CA97C /* Part2.c */; };
 /* End PBXBuildFile section */
@@ -28,6 +30,8 @@
 /* Begin PBXFileReference section */
 		57A1488F228113D900A81B29 /* Part3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Part3.c; sourceTree = "<group>"; };
 		57A14891228125BF00A81B29 /* Part4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Part4.c; sourceTree = "<group>"; };
+		57A1489A228276C800A81B29 /* Part5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Part5.c; sourceTree = "<group>"; };
+		57A1489C22829A4800A81B29 /* Part6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Part6.c; sourceTree = "<group>"; };
 		57D5064922802CB8000CA97C /* PEEEW */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PEEEW; sourceTree = BUILT_PRODUCTS_DIR; };
 		57D5065722802DB1000CA97C /* Part1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Part1.c; sourceTree = "<group>"; };
 		57D5065922802E16000CA97C /* Part2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Part2.c; sourceTree = "<group>"; };
@@ -69,6 +73,8 @@
 				57D5065922802E16000CA97C /* Part2.c */,
 				57A1488F228113D900A81B29 /* Part3.c */,
 				57A14891228125BF00A81B29 /* Part4.c */,
+				57A1489A228276C800A81B29 /* Part5.c */,
+				57A1489C22829A4800A81B29 /* Part6.c */,
 			);
 			path = PEEEW;
 			sourceTree = "<group>";
@@ -130,7 +136,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				57A14890228113D900A81B29 /* Part3.c in Sources */,
+				57A1489B228276C800A81B29 /* Part5.c in Sources */,
 				57D5065822802DB1000CA97C /* Part1.c in Sources */,
+				57A1489D22829A4800A81B29 /* Part6.c in Sources */,
 				57D5065A22802E16000CA97C /* Part2.c in Sources */,
 				57A14892228125BF00A81B29 /* Part4.c in Sources */,
 			);
